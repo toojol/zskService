@@ -10,6 +10,5 @@ import org.springframework.boot.web.servlet.ServletComponentScan;
 public class zskApplication {
     public static void main(String[] args) {
         SpringApplication.run(zskApplication.class, args);
-
     }
 }

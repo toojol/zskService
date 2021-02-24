@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: zskService
+server:
+  port: 6001
